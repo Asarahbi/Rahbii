@@ -1,0 +1,8 @@
+origin: asarahbi
+Label: asarahbi
+Suite: stable
+Version: 1.0
+codename: ios 
+Architectures: iphoneos-arm
+Components: main
+Description: apps plus
