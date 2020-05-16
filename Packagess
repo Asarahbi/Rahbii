@@ -1,0 +1,17 @@
+Package: com.fouadraheb.watusi
+Version: 1.2.40
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.21), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: debs/com.fouadraheb.watusi_1.2.40_iphoneos-arm.deb
+Size: 5006808
+MD5sum: 52cd3374c0ce92ac688b5c62c9769c3a
+SHA1: a043e82d38a9bbbc4f384303332813fc70f36c0e
+SHA256: 9132d43859c8d334cd86b2d4614058bc0fc8eb9fa11fd2be51f2ebae3a8ef632
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://asarahbi.github.io/Rahbii/
+Name: Watusi 2 for WhatsApp
